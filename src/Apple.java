@@ -6,6 +6,6 @@ public class Apple extends Fruit{
     @Override
     public String toString() {
         return "Amount: "+getAmount()+
-                "Price: "+getPrice();
+                "  Price: "+getPrice();
     }
 }
